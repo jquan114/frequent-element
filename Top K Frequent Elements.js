@@ -1,5 +1,5 @@
-Given an integer array nums and an integer k, return the k most frequent elements.
-You may return the answer in any order.
+// Given an integer array nums and an integer k, return the k most frequent elements.
+// You may return the answer in any order.
 
 var topKFrequent = function(nums, k) {
     // Create a map to store the frequency of each element
